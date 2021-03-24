@@ -4,5 +4,6 @@ you have changed second times.
 changed in make-conflict branch.
 
 changed in remote repository.
-conflict happens.
+changed in remote repository.
+changed in remote repository.
 
